@@ -15,7 +15,7 @@ public class Bomb : MonoBehaviour
 	private PickupSpawner pickupSpawner;	// Reference to the PickupSpawner script.
 	private ParticleSystem explosionFX;		// Reference to the particle system of the explosion effect.
 
-
+    //komentar za push
 	void Awake ()
 	{
 		// Setting up references.
